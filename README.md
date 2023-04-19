@@ -83,16 +83,11 @@
 
 <div>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/95764952/233200599-69eb96b6-47bc-4e71-aaf1-628202c06d35.jpeg" height="auto" width="600"/>
+<img src="https://user-images.githubusercontent.com/95764952/233200599-69eb96b6-47bc-4e71-aaf1-628202c06d35.jpeg" height="auto" width="300"/>
+<img src="https://user-images.githubusercontent.com/95764952/233200604-1d1c22cd-3a2a-4d6e-a1ef-4ed6cd09e98d.jpeg" height="auto" width="300"/>
 </p>
 <div/>
 
-
-<div>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/95764952/233200604-1d1c22cd-3a2a-4d6e-a1ef-4ed6cd09e98d.jpeg" height="auto" width="600"/>
-</p>
-<div/>
 
 
 
