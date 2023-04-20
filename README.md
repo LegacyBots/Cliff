@@ -95,4 +95,15 @@
 
 ##
 
+
+***instalação do ROS2***
+
+Linux
+
+```
+https://docs.ros.org/en/crystal/Installation/Linux-Install-Binary.html
+
+```
+
+
 ***Robot Sumô - Fira*** 
